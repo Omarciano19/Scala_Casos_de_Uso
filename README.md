@@ -1,10 +1,14 @@
-# Scala_Casos_de_Uso
-Resultados del curso "BlueTab University Casos de Uso".
+# Resultados del curso "BlueTab University Casos de Uso".
 
 Este es el resultado de la capacitación por BlueTab para la posición de casos de uso, en este se desarrollo un notebook en Scala y posteriormente un script para el ejercicio en particular con enfoque en ETL.
-Los datos de este ejercicio son privados y por lo tanto nunca publicados  ni compartidos con los capacitados.
 
-Este archivo Scala realiza un procesamiento detallado de movimientos financieros, generando identificadores únicos para cada transacción, categorizando los movimientos (capital, intereses, impuestos), y uniendo los datos con información de cuentas y monedas, con el fin de preparar los datos para un análisis financiero a petición de un stakeholder.
+**Los datos de este ejercicio son privados y por lo tanto nunca publicados  ni compartidos con los capacitados.**
+
+Este archivo Scala realiza un procesamiento detallado de movimientos financieros, generando identificadores únicos para cada transacción, categorizando los movimientos (capital, intereses, impuestos), y uniendo los datos con información de cuentas y monedas, con el fin de preparar los datos para un análisis financiero conforme los siguientes requerimientos de un peticionario:
+
+![image](https://github.com/user-attachments/assets/bdaf50bd-70e3-4030-b58d-559ffca7e41f) *Requerimientos para el caso de uso.*
+
+
 
 ## Sinopsis
 
